@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fateengine": {
+      "command": ".venv/bin/python",
+      "args": ["-m", "fateengine.mcp.server"]
+    }
+  }
+}
